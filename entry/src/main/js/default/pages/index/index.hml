@@ -1,0 +1,4 @@
+<div class="container">
+    <text class="title">Hello {{ title }}</text>
+    <input type="button" value="{{clime}}" class="btn" on:click="clickAction"></input>
+</div>
